@@ -1,0 +1,19 @@
+﻿
+///////////////////////Image Viewer With ListView/////////////////////////
+
+Run Project.
+Click Open to add image files to list.
+Clear button clears the list.
+
+Then double click the image file in list to view images.
+Viewer.cs file provides zoom in/out , Rotate and Flip options , 
+next,previous buttons.It also starts slide shows with time interval option between
+each images.
+
+
+/////////////////////////////////END/////////////////////////////////////
+
+
+
+
+
